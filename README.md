@@ -1,6 +1,8 @@
 <h1 align="center"> Multi-layer perceptron (MLP) + Autograd engine <h1>
 
- This repository contains a Multi-layer Perceptron (MLP) + Autograd engine project based on the tutorials from https://github.com/karpathy. It is written in Python and uses the PyTorch-like API. The project implements backpropagation (reverse-mode autodiff) over a dynamically built DAG and a small neural networks library. It is designed to enable developers to easily create deep neural networks for binary classification tasks. This Code has been used for educational purposes only.
+ This repository contains a Multi-layer Perceptron (MLP) + Autograd engine project based on the tutorials from https://github.com/karpathy.
+ It is written in Python and uses the PyTorch-like API. The project implements backpropagation (reverse-mode autodiff) over a dynamically built DAG and a small neural networks library.
+ It is designed to enable developers to easily create deep neural networks for binary classification tasks. This Code has been used for educational purposes only.
 
 ## Technologies Used
 
@@ -24,13 +26,13 @@
 4. Use the backpropagation method to calculate the gradients through the operations used
 5. You can combine this with the usage of the MLP class to generate Multiple Layers of Neurons and train the model accordingly thanks to the gradients
 
-![Backpropagation example 1](ManuGrad/Screenshots/Backpropagation_1.png)
+![Backpropagation example 1](Screenshots/Backpropagation_1.png)
 
 
-![Backpropagation example 2](ManuGrad/Screenshots/Backpropagation_1.png)
+![Backpropagation example 2](Screenshots/.png)
 
 
-![Neural Network](ManuGrad/Screenshots/Neural_Network.png)
+![Neural Network](Screenshots/Neural_Network.png)
 
 ## Index of Useful Resources
 
